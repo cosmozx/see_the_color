@@ -1,0 +1,16 @@
+{
+  "name": "see_the_color",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom theme for color blind",
+  "keywords": [
+    "syntax",
+    "theme",
+    "color blind"
+  ],
+  "repository": "https://github.com/cosmozx/see_the_color.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
